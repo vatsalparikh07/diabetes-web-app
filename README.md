@@ -1,6 +1,8 @@
-## [Project Website](https://project-vatspari-avasoya-smmravi.streamlit.app/) || [YouTube Video](https://youtu.be/i_JkjmxSR0E)
-# Predictive Modeling for Personalized Diabetes Care 
 
+# Predictive Modeling for Personalized Diabetes Care 
+- [Project Website](https://project-vatspari-avasoya-smmravi.streamlit.app/) 
+- [YouTube Video](https://youtu.be/i_JkjmxSR0E)
+  
 ![1 - Copy](https://github.com/vatsalparikh07/diabetes-web-app/assets/65659649/b85b5703-ddb1-4eaf-ae5f-523e39f4a625)
 
 ## Overview
